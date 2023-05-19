@@ -64,7 +64,7 @@ Adding a new blip involves populating a new entry on the csv file and commiting 
 
 Once in github the radar can be visualised using hte following link:
 
-* [TechRadar Visualisation](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2FBLGEngineering%2Ftech-radar%2Fmain%2FTechRadar.csv)
+* [TechRadar Visualisation](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2FBLGEngineering%2Ftech-radar%2Fmain%2FTechRadar.csv)
 
 
 
