@@ -8,7 +8,7 @@ Terrascan,Adopt,Tools,FALSE,"<p><strong><a href=""https://runterrascan.io/"">ter
 GitHubActions,Adopt,Platforms,FALSE,"<p><strong><a href=""https://docs.github.com/en/actions"">GitHub Actions</a> Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.</strong>
 </p>"
 Central Infrastructure as Code (IAC),Adopt,Techniques,FALSE,
-Terraform,Adopt,languages-and-frameworks,FALSE,"<p><strong><a href=""https://registry.terraform.io/providers/hashicorp/aws/latest/docs/guides/version-5-upgrade"">Terraform Version 5.0.0</a> of the AWS provider for Terraform is a major release and includes changes that you need to consider when upgrading. This guide will help with that process and focuses only on changes from version 4.x to version 5.0.0. See the Version 4 Upgrade Guide for information on upgrading from 3.x to version 4.0.0 </strong></p>"
+Terraform,Adopt,languages-and-frameworks,FALSE,"<p><strong><a href=""https://www.terraform.io/"">Terraform</a> Automate infrastructure on any cloud with Terraform. Infrastructure automation to provision and manage resources in any cloud or data center. </strong></p>"
 OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resources/demo-library/?utm_source=google&utm_campaign=emea_uki_mult_all_all_dg-ao_emea_search_google_text_kw_it-brand-OktaExact_utm2&utm_medium=cpc&utm_id=aNK4z0000004DncGAE&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNq85YHqq99v1kqmleyDnw_L2SBHEcM-p8aYH_roXyhA_9ycmj6JuLBoCAkUQAvD_BwE"">Okta</a> is the Identity and Access management platform for your Workforce and Customers.More than 13,000 organisations trust Oktaâ€™s software and API to sign in, authorise and manage users. Features provided include:<ul>
   <li>Secure cloud single sign-on (SSO)</li>
   <li>Offer one directory for all your users, groups and devices</li>
@@ -20,7 +20,7 @@ OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resourc
   <li>B2B integration, API access management, Advanced server access...</li>
 </ul></strong>
 </p>"
-Terraform v5.0,Trial,Toola,FALSE,
+Terraform v5.0,Trial,languages-and-frameworks,FALSE,"<p><strong><a href=""https://registry.terraform.io/providers/hashicorp/aws/latest/docs/guides/version-5-upgrade"">Terraform Version 5.0.0</a> of the AWS provider for Terraform is a major release and includes changes that you need to consider when upgrading. This guide will help with that process and focuses only on changes from version 4.x to version 5.0.0. See the Version 4 Upgrade Guide for information on upgrading from 3.x to version 4.0.0 </strong></p>"
 mountpoint-S3,Assess,Tools,TRUE,"<p><strong><a href=""https://github.com/awslabs/mountpoint-s3"">mountpoint-S3</a> is a simple, high-throughput file client for mounting an s3 bucket as a local file system</strong></p>"
 Openai.com,Assess,Tools,TRUE,"<p><strong><a href=""https://openai.com/"">OpenAI</a> AI to assist with answering questions and providing information on a wide range of topics.</strong>
 </p>"
