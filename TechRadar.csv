@@ -20,9 +20,7 @@ OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resourc
   <li>B2B integration, API access management, Advanced server access...</li>
 </ul></strong>
 </p>"
-Terraform v5.0,Trial,languages-and-frameworks,FALSE,"<p><strong><a href=""https://registry.terraform.io/providers/hashicorp/aws/latest/docs/guides/version-5-upgrade"">Terraform Version 5.0.0</a> of the AWS provider for Terraform is a major release and includes changes that you need to consider when upgrading. This guide will help with that process and focuses only on changes from version 4.x to version 5.0.0. See the Version 4 Upgrade Guide for information on upgrading from 3.x to version 4.0.0 </strong></p>"
-mountpoint-S3,Assess,Tools,TRUE,"<p><strong><a href=""https://github.com/awslabs/mountpoint-s3"">mountpoint-S3</a> is a simple, high-throughput file client for mounting an s3 bucket as a local file system</strong></p>"
-Openai.com,Assess,Tools,TRUE,"<p><strong><a href=""https://openai.com/"">OpenAI</a> AI to assist with answering questions and providing information on a wide range of topics.</strong>
+Wiz - Cloud Infrastructure Security,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.wiz.io/"">Wiz </a> scans every layer of your cloud environments without agents to provide complete visibility into every technology running in your cloud without blind spots. Wiz connects via API to AWS, Azure, GCP, OCI, Alibaba Cloud, VMware vSphere, Red Hat OpenShift, and Kubernetes across virtual machines, containers, serverless functions, and data stores like public buckets, data volumes and databases. Organizations at any scale, from ones just beginning their cloud journey to those with the largest cloud footprints, gain a single, comprehensive view of the cloud in minutes.</strong>
 </p>"
 Terragrunt,Assess,Tools,TRUE,"<p><strong><a href=""https://terragrunt.gruntwork.io/"">Terragrunt</a> s a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state.</strong>
 </p>"
