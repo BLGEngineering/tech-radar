@@ -22,7 +22,7 @@ OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resourc
 </p>"
 Wiz - Cloud Infrastructure Security,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.wiz.io/"">Wiz </a> scans every layer of your cloud environments without agents to provide complete visibility into every technology running in your cloud without blind spots. Wiz connects via API to AWS, Azure, GCP, OCI, Alibaba Cloud, VMware vSphere, Red Hat OpenShift, and Kubernetes across virtual machines, containers, serverless functions, and data stores like public buckets, data volumes and databases. Organizations at any scale, from ones just beginning their cloud journey to those with the largest cloud footprints, gain a single, comprehensive view of the cloud in minutes.</strong>
 </p>"
-Kargo,Trial,Platforms,FALSE,"<p><strong><a href=""https://akuity.io/what-is-kargo/"">Kargo </a> is the next step in the evolution of application delivery. It's purpose-built to make declarative application delivery pipelines easier and more intuitive - all while remaining faithful to established GitOps principles.</strong>
+Kargo,Trial,Platforms,FALSE,"<p><strong><a href=""https://akuity.io/what-is-kargo/"">Kargo</a> is the next step in the evolution of application delivery. It's purpose-built to make declarative application delivery pipelines easier and more intuitive - all while remaining faithful to established GitOps principles.</strong>
 </p>"
 Terragrunt,Assess,Tools,TRUE,"<p><strong><a href=""https://terragrunt.gruntwork.io/"">Terragrunt</a> s a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state.</strong>
 </p>"
