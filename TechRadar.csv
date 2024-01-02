@@ -20,8 +20,6 @@ OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resourc
 </p>"
 Wiz - Cloud Infrastructure Security,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.wiz.io/"">Wiz </a> scans every layer of your cloud environments without agents to provide complete visibility into every technology running in your cloud without blind spots. Wiz connects via API to AWS, Azure, GCP, OCI, Alibaba Cloud, VMware vSphere, Red Hat OpenShift, and Kubernetes across virtual machines, containers, serverless functions, and data stores like public buckets, data volumes and databases. Organizations at any scale, from ones just beginning their cloud journey to those with the largest cloud footprints, gain a single, comprehensive view of the cloud in minutes.</strong>
 </p>"
-Terragrunt,Assess,Tools,TRUE,"<p><strong><a href=""https://terragrunt.gruntwork.io/"">Terragrunt</a> s a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state.</strong>
-</p>"
 backstage.io,Assess,Tools,TRUE,"<p><strong><a href=""https://backstage.io/"">Backstage</a> is an open source platform for building developer portals.</strong></p>"
 Cloud Carbon Footprint,Assess,Tools,TRUE,"<p><strong><a href=""https://www.cloudcarbonfootprint.org/"">Cloud Carbon Footprint</a> is an open source tool that provides visibility and tooling to measure, monitor and reduce your cloud carbon emissions. We use best practice methodologies to convert cloud utilization into estimated energy usage and carbon emissions, producing metrics and carbon savings estimates that can be shared with employees, investors, and other stakeholders.</strong>
 </p>"
@@ -44,4 +42,6 @@ snyk,Hold,Tools,TRUE,"<p><strong><a href=""https://snyk.io/product/infrastructur
 </p>
 <p>
 <b>Assesed by Madoc Batters and deemed not suitable.</b>
+</p>"
+Terragrunt,Assess,Tools,TRUE,"<p><strong><a href=""https://terragrunt.gruntwork.io/"">Terragrunt</a> s a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state.</strong>
 </p>"
